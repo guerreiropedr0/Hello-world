@@ -4,50 +4,39 @@
 
 > This project is the first of many on the Microverse course.
 
-
 "Hello world" is an introduction on how to use linters, how to document work professionally, getting used to the gitflow and how to request a code review.
-
-## Built With
-
-- HTML/CSS
-- Microverse README template file
-- Visual Studio Code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+In the following link, you can view my.[introduction website](https://pepedropo1.github.io/Hello-world/).
 
+## Built With
 
-## Getting Started
+- HTML
+- CSS
+- Microverse README template file
 
-
-To get a local copy up and running follow these simple example steps.
-
-
-### Prerequisites
+## Prerequisites
 
 - Basic HTML/CSS knowledge;
 
-### Setup
+## Getting Started
 
-Clone the repository by pressing the "Code" button in green and use the respective links based on your system and preference.
+To get a local copy up and running follow these simple example steps.
 
-### Usage
+Clone the repository with:
 
-Use any text editor to edit the document, for example, VSCode.
-
-
-
-
+```
+git clone git@github.com:pepedropo1/Hello-world.git
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Pedro Guerreiro**
 
 - GitHub: [@pepedropo1](https://github.com/pepedropo1)
 - Twitter: [@pepedrop01](https://twitter.com/pepedrop01)
-- LinkedIn: [Pedro Guerreiro](www.linkedin.com/in/pepedropo1)
-
+- LinkedIn: [Pedro Guerreiro](https://www.linkedin.com/in/pepedropo1/)
 
 ## 🤝 Contributing
 
@@ -55,15 +44,15 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Thank you Microverse for the opportunity
 - Happy coding
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
